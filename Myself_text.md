@@ -4,9 +4,9 @@
 # Education
     PhD: Radboud University; Donders Institute
     Neuroscience
-    Mster: East China Normal University
+    Master: East China Normal University
     Neuobiology
-    Bachelar: Shaoguan University
+    Bachelar: Sguan University
     Life Science
 
 # Learned or checked
