@@ -9,7 +9,7 @@
     Bachelar: Shaoguan University
     Life Science
 
-# Learn or checked
+# Learned or checked
     Key words: Intelligent Big Data Visualization. Data Visualization Online Courses 2020 (Tongji University)
     Source: https://idvxlab.com/teaching.html
     Date: April 6th. 2020
