@@ -23,20 +23,20 @@ Chao Guo
 - ImageJ (Fiji, Jython)
   
 # Publication
-- Nguyen H A T*, **Guo C*,** Homberg J R. Cognitive Bias Under Adverse and Rewarding Conditions: A Systematic Review of Rodent Studies[J]. Frontiers in Behavioral Neuroscience, 2020, 14: 14. *co-first author
+- Nguyen H A T*, **Guo C***, Homberg J R. Cognitive Bias Under Adverse and Rewarding Conditions: A Systematic Review of Rodent Studies[J]. Frontiers in Behavioral Neuroscience, 2020, 14: 14. *co-first author
 - Karel, P., Van der Toorn, A., Vanderschuren, L., **Guo, C.**, Sadighi Alvandi, M., Reneman, L., ... & Homberg, J. R. (2019). Ultrahigh‐resolution MRI reveals structural brain differences in serotonin transporter knockout rats after sucrose and cocaine self‐administration. Addiction biology.
 - Caffino, L., Verheij, M. M., Que, L., **Guo, C.**, Homberg, J. R., & Fumagalli, F. (2018). Increased cocaine self‐administration in rats lacking the serotonin transporter: a role for glutamatergic signaling in the habenula. Addiction biology.
-- **Chao Guo**, Bing Mei. Review of sexual behavior disorder in Alzheimer's disease: epidemiology and mechanism[J]. Chinese Journal of Gerontology., 2016, ( 03) : 720-724.IN CHINESE
+- **Chao Guo**, Bing Mei. Review of sexual behavior disorder in Alzheimer's disease: epidemiology and mechanism[J]. Chinese Journal of Gerontology., 2016, (03) : 720-724. IN CHINESE
 
 # Talks
-- 5-HTT modulates decisional anhedonia in rats. **Donders Stress Meeting** 2020.03
-- [Visual stimulus generalization in serotonin transporter KO rat.](https://www.ru.nl/dondersdiscussions/previous-events/dd2018/program/parallel-sessions/parallel-session-1/) **Donders Discussion** 2018.10 
-- Sensitive to both negative and positive reinforcements? The mechanisms of comorbidity between addiction and depression **Master Class in Amsterdam University** 2018.01
+- 5-HTT modulates decisional anhedonia in rats. **Donders Stress Meeting**; Nijmegen, Netherlands; 2020.03
+- [Visual stimulus generalization in serotonin transporter KO rat.](https://www.ru.nl/dondersdiscussions/previous-events/dd2018/program/parallel-sessions/parallel-session-1/) **Donders Discussion** Nijmegen, Netherlands;2018.10 
+- Sensitive to both negative and positive reinforcements? The mechanisms of comorbidity between addiction and depression **Master Class in Amsterdam University**; Amsterdam, Netherlands, 2018.01
 
 # Posters
-- Visual categorization and generalization in SERT KO rats **NIN-DI meeting** 2019.11
-- Both SERT KO and WT rats have a cognitive bias on high reward in a touch-screen task **Dutch Neuroscience Meeting** 2019.08
-- Cognitive bias in serotonin transporter knock-out rats **Dutch Neuroscience Meeting** 2017.06
+- Visual categorization and generalization in SERT KO rats **NIN-DI meeting**; Nijmegen, Netherlands; 2019.11
+- Both SERT KO and WT rats have a cognitive bias on high reward in a touch-screen task **European Behavioural Pharmacology Society (EBPS)**; Braga, Portugal; 2019.08
+- Cognitive bias in serotonin transporter knock-out rats **Dutch Neuroscience Meeting**; Lunteren, Netherlands; 2017.06
 
 # Awards/Grants
 - Exchange program between Brain and Mind Institute (London, Canada) and Donders Institute (Nijmegen, the Netherlands), 2019.05 (€8,212)
@@ -55,9 +55,16 @@ Chao Guo
 
 - [Data Visualization Online Courses 2020](https://idvxlab.com/teaching.html), Tongji University, 2020.04
 - [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python/home/info), Michigan University in Coursera, 2020.04
+  - [Visulized Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/)
+  - [Hierarchical modelling interface](https://calpolystat3.shinyapps.io/Hierarchical_Models/)
 - [Mixed effect regression in R](https://brightspace.ru.nl/d2l/home/93862), Radboud University, 2020.04
 - [An introduction to Data visualization and Cluster analysis (using R)](https://brightspace.ru.nl/d2l/home/75100), Radboud University Summer School, 2019.07
 - [Advance Statistics in R](https://brightspace.ru.nl/d2l/home/17033), Radboud University, 2019.02
 - [Python语言程序设计](http://www.icourse163.org/course/BIT-268001?tid=1002788003), Bejing Institute of Technology in 中国大学MOOC, 2018.07
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/specializations/python), Michigan University in Coursera, 2017
 
+# Neuronal Dynamics Plan
+- [Neuronal Dynamics From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
+  - read the book
+  - watch the vedio
+  - do the exciece (python)
