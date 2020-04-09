@@ -10,3 +10,9 @@
  - other working experiences
  - personal hobbies
  - medium
+
+  ## Plan
+- [Neuronal Dynamics From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
+  - read the book
+  - watch the vedio
+  - do the exercise (python)
