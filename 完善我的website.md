@@ -14,5 +14,5 @@
   ## Plan
 - [Neuronal Dynamics From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
   - read the book
-  - watch the vedio
+  - watch the video
   - do the exercise (python)
