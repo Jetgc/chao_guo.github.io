@@ -2,7 +2,7 @@
 layout: post
 title:      My track towards data analyst
 subtitle:   to be or not to be, that's interesting
-date: YYYY-MM-DD HH:MM
+date: 2020-04-12 01:34 
 category: 
 header-img: img/post-bg-coffee.jpeg
 author: Chao
@@ -33,3 +33,5 @@ summary: Enjoy what you are doing.
 - [Python语言程序设计](http://www.icourse163.org/course/BIT-268001?tid=1002788003), Beijing Institute of Technology in 中国大学MOOC, 2018.07
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/specializations/python), Michigan University in Coursera, 2017
 
+# planing or other resources
+- peer-learning community https://ourcodingclub.github.io/
