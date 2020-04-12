@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      My track towards data analyst
-subtitle:   to be or not to be, that's interesting
+subtitle:   To be or not to be, that's interesting
 date: 2020-04-12 01:34 
 category: 
 header-img: img/post-bg-coffee.jpeg
@@ -11,7 +11,7 @@ tags:
 summary: Enjoy what you are doing.
 ---
 
-# Courses/workshops/tutorial
+# Courses/Workshops/Tutorials
 
 - [Introduction, reinforcement learning tutorial](https://github.com/lei-zhang/RL_tutorial_webinar), Lei Zhang, 2020.04
 - Statistic Plot
@@ -34,8 +34,8 @@ summary: Enjoy what you are doing.
 - [Python语言程序设计](http://www.icourse163.org/course/BIT-268001?tid=1002788003), Beijing Institute of Technology in 中国大学MOOC, 2018.07
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/specializations/python), Michigan University in Coursera, 2017
 
-# plan to learn or other resources
-- peer-learning community https://ourcodingclub.github.io/
+# Plan/resources
+- [peer-learning community](https://ourcodingclub.github.io/) 
   - take course if interesting
 - [Neuronal Dynamics From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
   - read the book
