@@ -11,13 +11,13 @@
  - personal hobbies
  - medium
 # Personal hobbies
-![dance](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_dancing.png) ![hiking](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_hiking.png) ![read](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_reading.png) ![tourism](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_tourism.png)
+![dance](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_dancing.png) 
+![hiking](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_hiking.png) 
+![read](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_reading.png) 
+![tourism](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_tourism.png)
 
 supervisor [Benno Roozendaal](https://www.researchgate.net/profile/Benno_Roozendaal)
   
   ## Plan
-- [Neuronal Dynamics From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/index.html)
-  - read the book
-  - watch the video
-  - do the exercise (python)
+
   
