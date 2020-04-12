@@ -10,11 +10,6 @@
  - other working experiences
  - personal hobbies
  - medium
-# Personal hobbies
-![dance](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_dancing.png) 
-![hiking](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_hiking.png) 
-![read](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_reading.png) 
-![tourism](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_tourism.png)
 
 supervisor [Benno Roozendaal](https://www.researchgate.net/profile/Benno_Roozendaal)
   
