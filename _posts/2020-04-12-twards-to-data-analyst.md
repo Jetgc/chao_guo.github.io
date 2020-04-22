@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      Data analyst, my track
+title:      Towards data analyst, my track
 subtitle:   To be or not to be, that's interesting
 date: 2020-04-21 17:53 
 category: 
