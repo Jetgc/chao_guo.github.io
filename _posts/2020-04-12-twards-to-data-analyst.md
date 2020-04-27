@@ -20,6 +20,7 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/specializations/python), Michigan University in Coursera, 2017
 
 # Statistic
+- [贝叶斯因子分析，BayestestR](https://easystats.github.io/bayestestR/articles/bayes_factors.html)
 - [Introduction, reinforcement learning tutorial](https://github.com/lei-zhang/RL_tutorial_webinar), Lei Zhang, 2020.04
 - Statistic Plot
   - [Estimation Plot in python](https://acclab.github.io/DABEST-python-docs/tutorial.html), 2020.04
