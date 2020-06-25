@@ -39,6 +39,24 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
 - [Advance Statistics in R](https://brightspace.ru.nl/d2l/home/17033), Radboud University, 2019.02
 
 # Image analysis
+- Introduction to nuclei segmentation with StarDist 2020.05
+  - **Key words** roundish objects segmentation; deep learning; Tensorflow
+  - [Introduction video](https://www.youtube.com/watch?v=Amn_eHRGX5M&list=PLbQR9xT-T5W9qcTWdljmaBJcvF_4lhUdH&index=3)
+  - [Tutorial for Neubias](https://github.com/maweigert/neubias_academy_stardist)
+  - [full tutorials](https://github.com/mpicbg-csbd/stardist)
+  - [Fiji plugin for StarDist](https://github.com/mpicbg-csbd/stardist-imagej), which can be used for apply already trained models to new images
+  - [Python for StarDist](https://github.com/mpicbg-csbd/stardist), which is used for model training
+  - [**Link between StarDist and Qu-Path**](https://qupath.readthedocs.io/en/latest/docs/advanced/stardist.html#stardist)
+
+- Quantitative Pathology & BioImage Analysis: QuPath. 2020.05 
+  - **Key words**: object annotation; multi-channels; cell detection
+  - [Introduction video](https://www.youtube.com/watch?v=4An5n6Y_rRI&list=PLbQR9xT-T5W9qcTWdljmaBJcvF_4lhUdH&index=8)
+  - [Tutorial v0.2.0](https://qupath.readthedocs.io/en/latest/)
+  - [Q&A](https://forum.image.sc/t/neubias-academy-home-webinar-quantitative-pathology-bioimage-analysis-qupath-questions-answers/37387)
+  - [Twitter](https://twitter.com/petebankhead)
+  - Deep learning for nucleus detection with StarDist
+  - other annotation tools: Fiji; Fiji + LabKit; Paintera (3D);
+
 - [Introduction to machine learning and using deepImageJ](http://eubias.org/NEUBIAS/) 2020.04
   - [Presentation](https://docs.google.com/presentation/d/1tmeXE2a8-1yau6DdYEl9hFuogBmajiss6py39MZ74wE/edit#slide=id.g6ee2a06502_2_69)
   - [Test images](https://drive.google.com/drive/folders/17NXRSWfvaeYtg6qHxhKTmBtvTfN4MEGD)
@@ -46,6 +64,7 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
     - remark: this code use Tensorflorw to train image data, and return a model algorithm to analyse new data. The model algorithm can be used by combing with the deepImageJ interface.
   - [Ready to use algorithm and the deepImageJ plugin](https://deepimagej.github.io/deepimagej/index.html)
     - remark: one of the trained algorithm might be useful for fluorescence microscopy. [the paper](https://www.nature.com/articles/s41592-018-0216-7)
+
 
 # Plan
 - [peer-learning community](https://ourcodingclub.github.io/) 
