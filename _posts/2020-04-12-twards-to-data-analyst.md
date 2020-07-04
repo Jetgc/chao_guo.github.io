@@ -62,9 +62,13 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
   - [Test images](https://drive.google.com/drive/folders/17NXRSWfvaeYtg6qHxhKTmBtvTfN4MEGD)
   - [Code for training your own images](https://colab.research.google.com/drive/1bTbbAyUQHMTCQ7nR3nqjWMnRAXa3K5-j)
     - remark: this code use Tensorflorw to train image data, and return a model algorithm to analyse new data. The model algorithm can be used by combing with the deepImageJ interface.
-  - [Ready to use algorithm and the deepImageJ plugin](https://deepimagej.github.io/deepimagej/index.html)
+  - [Ready to use algorithm and the deepImageJ plugin](https://deepimagej.github.io/deepimagej/index.html) 
     - remark: one of the trained algorithm might be useful for fluorescence microscopy. [the paper](https://www.nature.com/articles/s41592-018-0216-7)
 
+# Math
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 2020.06
+  - Visually explain the algebra by the concept of vector
+- 
 
 # Plan
 - [peer-learning community](https://ourcodingclub.github.io/) 
