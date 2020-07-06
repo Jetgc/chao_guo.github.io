@@ -68,7 +68,7 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
 # Math
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 2020.06
   - Visually explain the algebra by the concept of vector
-- 
+- [Linear algebra, Khan academy](https://www.khanacademy.org/math/linear-algebra) 2020.07
 
 # Plan
 - [peer-learning community](https://ourcodingclub.github.io/) 
