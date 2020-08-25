@@ -2,7 +2,7 @@
 layout: post
 title:      Towards data analyst, my track
 subtitle:   To be or not to be, that's interesting
-date: 2020-04-21 17:53 
+date: 2020-08-25 17:53 
 category: 
 header-img: img/post-bg-coffee.jpeg
 author: Chao
@@ -66,6 +66,7 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
     - remark: one of the trained algorithm might be useful for fluorescence microscopy. [the paper](https://www.nature.com/articles/s41592-018-0216-7)
 
 # Math
+- [Computational model in NeuroMatch, interactive track](https://neuromatch.io/) 2020.07
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 2020.06
   - Visually explain the algebra by the concept of vector
 - [Linear algebra, Khan academy](https://www.khanacademy.org/math/linear-algebra) 2020.07

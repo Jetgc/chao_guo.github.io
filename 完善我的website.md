@@ -6,11 +6,11 @@
 ## 完善简历
  - ~~add link of the paper~~
  - ~~project info~~
- - other working experiences
- - personal hobbies
+ - ~~other working experiences~~
+ - ~~personal hobbies~~
  - 
 
-supervisor [Benno Roozendaal](https://www.researchgate.net/profile/Benno_Roozendaal)
+[Benno Roozendaal](https://www.researchgate.net/profile/Benno_Roozendaal)
   
 # Personal hobbies
 ![dance](https://raw.githubusercontent.com/jetgc/jetgc.github.io/master/img/hobb_dancing.png) 

@@ -1,5 +1,5 @@
 # Site settings
-title: Chāo Guō
+title: Chāo Guō (Chao Ciu-Gwok Guo)
 SEOTitle: GC的网站 | CG
 header-img: img/post-bg-desk.jpg
 email: ciu.gwok[a]gmail.com
@@ -107,5 +107,8 @@ friends: [
     },{
         title: "Judith Homberg",
         href: "https://www.ru.nl/english/people/homberg-j/"
+    },{ 
+        title: "Joanes Grandjean",
+        href: "https://grandjeanlab.github.io/"
     }
 ]
