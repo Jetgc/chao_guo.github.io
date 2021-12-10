@@ -39,6 +39,9 @@ This post I share the courses/worships/recourses I'v followed or plan to. Two ma
 - [Advance Statistics in R](https://brightspace.ru.nl/d2l/home/17033), Radboud University, 2019.02
 
 # Image analysis
+- Interactive bioimage analysis with Python and Jupyter 2021.12
+  - [Introduction video](https://www.youtube.com/watch?v=Y3pB3wnOivE)
+  - [Tutorial for Neubias](https://github.com/guiwitz/neubias_academy_biapy)
 - Introduction to nuclei segmentation with StarDist 2020.05
   - **Key words** roundish objects segmentation; deep learning; Tensorflow
   - [Introduction video](https://www.youtube.com/watch?v=Amn_eHRGX5M&list=PLbQR9xT-T5W9qcTWdljmaBJcvF_4lhUdH&index=3)
