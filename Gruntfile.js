@@ -1,9 +1,3 @@
-"dependencies": {
-  "grunt": ">=1.5.3"
-}
-"devDependencies": {
-  "grunt": ">=1.5.3"
-}
 module.exports = function(grunt) {
 
     // Project configuration.
